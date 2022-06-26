@@ -2,7 +2,7 @@
 
 > A clean, beautiful, Responsive Portfolio template!!
 
-<p align="center"><img src="" width = 30%></p>
+<p align="center"><img src="https://github.com/manish1328/Portfolio_project/blob/main/Screenshot%20(250).png" width = 30%></p>
 
 ## Features 📋
 ⚡️ Fully Responsive\
